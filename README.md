@@ -56,18 +56,6 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 
 ---
 
-## 📊 Quick Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohail3080&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohail3080&theme=radical&hide_border=false&layout=compact)
-
-</div>
-
----
-
 ## 💬 Let's Connect & Collab!
 
 <div align="center">
