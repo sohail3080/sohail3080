@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Sohail
 
-### 🚀 Full Stack Developer | AI Enthusiast | Web3 Explorer
+### 🚀 Full Stack Developer | AI Enthusiast
 
 *Building the future, one commit at a time* ✨
 
@@ -14,7 +14,7 @@
 
 ## 🔥 What I'm About
 
-Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building **scalable web apps** that actually make a difference. When I'm not coding, you'll find me exploring the wild world of **AI, Web3, and blockchain** - because the future is now, and it's pretty damn cool.
+Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building **scalable web apps** that actually make a difference. When I'm not coding, you'll find me exploring the wild world of **AI and modern web development** - because the future is now, and it's pretty damn cool.
 
 ---
 
@@ -43,14 +43,13 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Git** • **Docker** • **AWS** • **CI/CD** • **Sanity CMS** • **Web3** • **Blockchain** • **AI Integration**
+**Git** • **Docker** • **AWS** • **CI/CD** • **Sanity CMS** • **AI Integration**
 
 ---
 
 ## 🌱 Currently Leveling Up
 
 - 🧠 **AI/ML Integration** - Making apps smarter, one algorithm at a time
-- ⛓️ **Advanced Blockchain** - Building the decentralized future
 - ⚡ **Performance Optimization** - Because slow is the new broken
 - 🏗️ **Scalable Architecture** - Thinking big, building bigger
 
