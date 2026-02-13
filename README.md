@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hey! I'm Sohail 👋
 
-<!--
-**sohail3080/sohail3080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Full Stack Developer** who loves building cool stuff with modern tech! 🚀
 
-Here are some ideas to get you started:
+### What I'm Into 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about creating **scalable web applications** and exploring the intersection of **AI, Web3, and modern web development**.
+
+### Tech Stack 💻
+
+**Frontend:** React.js | Next.js | TypeScript | Angular | Redux | Tailwind CSS | Material UI
+
+**Backend:** Node.js | Express.js | MongoDB | MySQL | GraphQL | REST APIs | JWT | Python
+
+**Tools & More:** Git | Docker | AWS | CI/CD | Sanity CMS | Web3 | Blockchain | AI Integration
+
+### Currently Learning 🌱
+
+- Diving deeper into **AI/ML integration** in web apps
+- Exploring **advanced blockchain** development
+- Performance optimization and **scalable architecture** patterns
+
+### Let's Connect! 📫
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-sohail-230141205)
+
+---
+
+*Always open to collaborating on interesting projects! Let's build something awesome together.* 🚀
