@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Sohail
+# Hey, I'm Sohail
 
-### 🚀 Full Stack Developer | AI Enthusiast
+### Full Stack Developer | AI Enthusiast
 
-*Building the future, one commit at a time* ✨
+*Building the future, one commit at a time*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sohail-230141205)
 
@@ -12,15 +12,15 @@
 
 </div>
 
-## 🔥 What I'm About
+## What I'm About
 
-Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building **scalable web apps** that actually make a difference. When I'm not coding, you'll find me exploring the wild world of **AI and modern web development** - because the future is now, and it's pretty damn cool.
+Turning coffee into code and ideas into reality. I'm all about building **scalable web apps** that actually make a difference. When I'm not coding, you'll find me exploring the wild world of **AI and modern web development** - because the future is now, and it's pretty damn cool.
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-### Frontend Magic ✨
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +29,7 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 
 **React.js** • **Next.js** • **TypeScript** • **Angular** • **Redux** • **Tailwind CSS** • **Material UI**
 
-### Backend Powerhouse ⚡
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,11 +47,11 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 
 ---
 
-## 🌱 Currently Leveling Up
+## Currently Leveling Up
 
-- 🧠 **AI/ML Integration** - Making apps smarter, one algorithm at a time
-- ⚡ **Performance Optimization** - Because slow is the new broken
-- 🏗️ **Scalable Architecture** - Thinking big, building bigger
+- **AI/ML Integration** - Making apps smarter, one algorithm at a time
+- **Performance Optimization** - Because slow is the new broken
+- **Scalable Architecture** - Thinking big, building bigger
 
 ---
 
@@ -61,7 +61,7 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-sohail-230141205)
 
-**Always down to build something cool together!** 🚀
+**Always down to build something cool together!**
 
 *Hit me up if you want to collaborate on something awesome or just chat about tech!*
 
@@ -71,9 +71,9 @@ Turning coffee ☕ into code 💻 and ideas into reality. I'm all about building
 
 <div align="center">
 
-### ⚡ Fun Fact
+### Fun Fact
 
-*I turn bugs into features and coffee into code* ☕→💻
+*I turn bugs into features and coffee into code*
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sohail3080.sohail3080)
